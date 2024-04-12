@@ -1,0 +1,4 @@
+1.代码教程
+https://medium.com/@alexppppp/how-to-train-a-custom-keypoint-detection-model-with-pytorch-d9af90e111da
+2.github地址
+https://github.com/alexppppp/keypoint_rcnn_training_pytorch
